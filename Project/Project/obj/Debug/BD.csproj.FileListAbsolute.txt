@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\bin\Debug\Project.dll.config
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\bin\Debug\Project.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\bin\Debug\Project.pdb
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\obj\Debug\Project.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Project\obj\Debug\Project.pdb
