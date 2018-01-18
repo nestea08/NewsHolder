@@ -20,5 +20,13 @@ namespace Project
                 nc.SaveChanges();
             }
         }
+        public List<News> GetNews()
+        {
+            using (NewsContext nc=new NewsContext())
+            {
+                return nc.NewsSet.ToList();
+            }
+        }
     }
+   
 }

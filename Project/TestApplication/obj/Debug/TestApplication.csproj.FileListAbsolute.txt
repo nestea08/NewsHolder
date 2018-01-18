@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\Project.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\Project.pdb
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\Project.dll.config
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\Asus\Documents\GitHub\News_holder\Project\TestApplication\obj\Debug\TestApplication.pdb

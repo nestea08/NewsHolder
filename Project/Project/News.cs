@@ -9,15 +9,16 @@ namespace Project
     public class News
     {
         public int Id { get; set; }
-        private string name;
-        private string description;
-        private DateTime date;
-        private string link;
+        public string Name { get; set; }
+        public string Description { get; set; }
+       //public DateTime Date { get; set; }
+        public string Link { get; set; }
+        public News() { }
         public News(string name,string description,DateTime date,string link) {
-            this.name = name;
-            this.description = description;
-            this.date = date;
-            this.link = link;
+            Name = name;
+            Description = description;
+            //Date = date;
+            Link = link;
         }
 
     }
