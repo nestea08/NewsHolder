@@ -15,7 +15,7 @@
 <script src="https://vkontakte.ru/js/api/openapi.js"></script>
 
 <meta content="authenticity_token" name="csrf-param" />
-<meta content="nwlMGiAl+rxnhQr2l7glqHWYVw46otiZqtA3SlAg3iQ=" name="csrf-token" />
+<meta content="8z2d/SDw4PBfSXSdLgU6XsB1WEHXxhR1CPY48pTbjVc=" name="csrf-token" />
 <meta content='' name='description'>
 <meta content='' name='keywords'>
 <meta content='' http-equiv='Refresh'>
@@ -48,7 +48,7 @@ IT-Events
 </script>
 <script src="/assets/loginform-31681f7fe563f947b13fe3fbd49b0fab6168c7f3c4e0f48251cc2d1328fddac2.js"></script>
 <div class='header__menu hidden-md-down' id='profileControls'>
-<a class="header__item" href="/en">EN</a>
+<a class="header__item" href="/en/events">EN</a>
 <div class='header__item' id='edit-profile-button' style='display:none'>
 <a class='button button_text_pink' href='/users/edit'>
 <i class='button__icon'></i>
@@ -73,7 +73,7 @@ IT-Events
 <div class='header__menu hidden-lg-up'>
 <div class='header__burger' onclick="var t = document.querySelector('.js-header'); t.classList.contains('header_menu') ? t.classList.remove('header_menu') : t.classList.add('header_menu')"></div>
 <div class='header__big'>
-<a class="header__item" href="/en">EN</a>
+<a class="header__item" href="/en/events">EN</a>
 <div class='header__item' style='display:none'>
 <a class='button button_text_pink' href='/users/edit'>
 <i class='button__icon'></i>
@@ -105,7 +105,7 @@ IT-Events
 <div class='row'>
 <div class='col-12'>
 <div class='nav-search__wrapper'>
-<form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><input name='_usec' type='hidden' value='384366' />
+<form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><input name='_usec' type='hidden' value='945098' />
 <input id="full_search" name="full_search" type="hidden" value="false" />
 <input autocomplete="off" class="nav-search__input" id="search" name="q" placeholder="Найти" type="text" />
 </form>
@@ -123,13 +123,13 @@ IT-Events
 <li class='nav-tabs-item nav-tabs-item_active nav-tabs-item_main'>
 Предстоящие события
 <span class='nav-tabs-item__count'>
-89
+125
 </span>
 </li>
 <li class='nav-tabs-item nav-tabs-item_main'>
-<a class='nav-tabs-item__link' href='http://it-events.com/?type=past'>Прошедшие события</a>
+<a class='nav-tabs-item__link' href='http://it-events.com/events?type=past'>Прошедшие события</a>
 <span class='nav-tabs-item__count'>
-8657
+8674
 </span>
 </li>
 </ul>
@@ -141,353 +141,17 @@ IT-Events
 <div class='event-list-item'>
 <div class='row'>
 <div class='col-2'>
-<a class='event-list-item__image' href='/events/8556' style='background-image: url(/system/events/logos/000/008/556/original/%D0%A2%D0%B5%D1%81%D1%82-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%B8-%D0%B4%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8.jpg?1484729207)'></a>
+<a class='event-list-item__image' href='/events/10969' style='background-image: url(/system/events/logos/000/010/969/original/%D0%BE%D0%B1%D0%BE%D0%B8_v3.150.jpg?1516006967)'></a>
 </div>
 <div class='col-10'>
 <div class='event-list-item__type'>
-Тренинг / Бесплатное
+Хакатон / Бесплатное
 </div>
-<a class='event-list-item__title' href='/events/8556'>
-Тренинг по тестированию ПО
+<a class='event-list-item__title' href='/events/10969'>
+Why so serious hack
 </a>
 <div class='event-list-item__info'>
-16 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_online'>
-Онлайн-трансляция
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10954' style='background-image: url(/system/events/logos/000/010/954/original/juja_logo_600.jpg?1515681951)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Вебинар / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10954'>
-Как стать Junior Java Developer за 6 месяцев
-</a>
-<div class='event-list-item__info'>
-16 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_online'>
-Онлайн-трансляция
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10928' style='background-image: url(/system/events/logos/000/010/928/original/gffikj.png?1514469799)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Вебинар / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10928'>
-Pardot от Salesforce – система автоматизации взаимодействия отделов маркетинга и продаж в B2B-компании
-</a>
-<div class='event-list-item__info'>
-17 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_online'>
-Онлайн-трансляция
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10891' style='background-image: url(/system/events/logos/000/010/891/original/i.jpg?1513374477)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Митап / Платное
-</div>
-<a class='event-list-item__title' href='/events/10891'>
-Startup Crash Test #13
-</a>
-<div class='event-list-item__info'>
-17 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_location'>
-Москва, Россия
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10933' style='background-image: url(/system/events/logos/000/010/933/original/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%9E%D0%9E%D0%9F%D0%B2C__2.png?1514477890)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Вебинар / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10933'>
-Основы ООП в C++
-</a>
-<div class='event-list-item__info'>
-17 - 19 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_online'>
-Онлайн-трансляция
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10929' style='background-image: url(/system/events/logos/000/010/929/original/25446009_988665861280926_2149012818879459548_n.jpg?1514469984)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Вебинар / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10929'>
-Развертывание и работа Acronis Backup 12.5 в Linux окружении
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_online'>
-Онлайн-трансляция
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10067' style='background-image: url(/system/events/logos/000/010/067/original/f7b61067d796b0788fbad4cbb738d9c5.jpg?1502737766)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Вебинар / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10067'>
-Контент-фильтрация в образовательных учреждениях
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_online'>
-Онлайн-трансляция
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10955' style='background-image: url(/system/events/logos/000/010/955/original/150logo.png?1515751228)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Вебинар / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10955'>
-VMware vCloud Extender – новейший инструмент построения гибридных облаков для vSphere 6.5
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_online'>
-Онлайн-трансляция
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10889' style='background-image: url(/system/events/logos/000/010/889/original/150_%D0%BD%D0%B0_150_%D0%B5%D0%BB%D0%B0%D0%BC%D0%B0.png?1513346677)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Вебинар / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10889'>
-Правила рекламы в РСЯ: как запустить кампанию и не слить бюджет
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_online'>
-Онлайн-трансляция
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10962' style='background-image: url(/system/events/logos/000/010/962/original/pizza.jpg?1515953802)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Митап / Платное
-</div>
-<a class='event-list-item__title' href='/events/10962'>
-Pizza Pitch: открытые презентации в Бизнес-инкубаторе ВШЭ
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_location'>
-Москва, Россия
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10920' style='background-image: url(/system/events/logos/000/010/920/original/%D0%9B%D0%BE%D0%B3%D0%BE_%D1%81%D0%BA%D0%B0%D1%83%D1%82-%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F.jpg?1514198062)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Мастер-класс / Платное
-</div>
-<a class='event-list-item__title' href='/events/10920'>
-Прозрачный текст требований (информационный стиль)
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_location'>
-Санкт-Петербург, Россия
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10939' style='background-image: url(/system/events/logos/000/010/939/original/designing_a_scandinavian-style_home.jpg?1515139327)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Митап / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10939'>
-Apriorit Dev Club MeetUp#1: Практика применения Сonan
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_location'>
-Днепропетровск, Украина
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10953' style='background-image: url(/system/events/logos/000/010/953/original/Instagram-Dream-Do.jpg?1515678395)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Мастер-класс / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10953'>
-Master class «If you can dream it, you can do it»
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_location'>
-Днепропетровск, Украина
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10879' style='background-image: url(/system/events/logos/000/010/879/original/D8DDLAQ6nu4.jpg?1513265903)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Митап / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10879'>
-Свободу тестировщикам десктопа: внедряем автотесты!
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_location'>
-Киев, Украина
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10911' style='background-image: url(/system/events/logos/000/010/911/original/%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0_%D1%84%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%D0%B5.png?1513769229)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Вебинар / Бесплатное
-</div>
-<a class='event-list-item__title' href='/events/10911'>
-Безопасная работа на фрилансе
-</a>
-<div class='event-list-item__info'>
-18 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_online'>
-Онлайн-трансляция
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/10537' style='background-image: url(/system/events/logos/000/010/537/original/vk4.png?1510904596)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Конференция / Платное
-</div>
-<a class='event-list-item__title' href='/events/10537'>
-CONVERT.2018
-</a>
-<div class='event-list-item__info'>
-19 января 2018
-</div>
-<div class='event-list-item__info event-list-item__info_location'>
-Екатеринбург, Россия
-</div>
-</div>
-</div>
-</div>
-<div class='event-list-item'>
-<div class='row'>
-<div class='col-2'>
-<a class='event-list-item__image' href='/events/8160' style='background-image: url(/system/events/logos/000/008/160/original/UX_UI.jpg?1515949845)'></a>
-</div>
-<div class='col-10'>
-<div class='event-list-item__type'>
-Курс / Платное
-</div>
-<a class='event-list-item__title' href='/events/8160'>
-Веб-дизайнер. Быстрый старт в профессию
-</a>
-<div class='event-list-item__info'>
-19 января 2018 - 20 февраля 2018
+20 - 21 января 2018
 </div>
 <div class='event-list-item__info event-list-item__info_location'>
 Санкт-Петербург, Россия
@@ -519,6 +183,93 @@ CONVERT.2018
 <div class='event-list-item'>
 <div class='row'>
 <div class='col-2'>
+<a class='event-list-item__image' href='/events/10982' style='background-image: url(/system/events/logos/000/010/982/original/devops.png?1516179353)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Митап / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/10982'>
+DevOps MeetUp
+</a>
+<div class='event-list-item__info'>
+20 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Краснодар, Россия
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/11011' style='background-image: url(/system/events/logos/000/011/011/original/CvnTYhkXgAA1TNz.jpg?1516395084)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Тренинг / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/11011'>
+Как стать тестировщиком ПО с нуля: пошаговое руководство
+</a>
+<div class='event-list-item__info'>
+20 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Киев, Украина
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10966' style='background-image: url(/system/events/logos/000/010/966/original/620%D1%85200_%D1%81_%D1%80%D0%B0%D0%BC%D0%BA%D0%BE%D0%B9.jpg?1516005720)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Курс / Платное
+</div>
+<a class='event-list-item__title' href='/events/10966'>
+Социальные сети для руководителей
+</a>
+<div class='event-list-item__info'>
+22 января 2018 - 15 марта 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Екатеринбург, Россия
+</div>
+<div class='event-list-item__info event-list-item__info_online'>
+Онлайн-трансляция
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10964' style='background-image: url(/system/events/logos/000/010/964/original/1.jpg?1515954254)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Митап / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/10964'>
+HSE{Consult}
+</a>
+<div class='event-list-item__info'>
+22 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Москва, Россия
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
 <a class='event-list-item__image' href='/events/10894' style='background-image: url(/system/events/logos/000/010/894/original/150_%D0%BD%D0%B0_150_%D0%B5%D0%BB%D0%B0%D0%BC%D0%B0.png?1513602732)'></a>
 </div>
 <div class='col-10'>
@@ -530,6 +281,30 @@ CONVERT.2018
 </a>
 <div class='event-list-item__info'>
 23 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_online'>
+Онлайн-трансляция
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10967' style='background-image: url(/system/events/logos/000/010/967/original/820x312_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8_%D1%81%D0%BF%D0%B5%D1%86_dec2017_Facebook.jpg?1516005946)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Курс / Платное
+</div>
+<a class='event-list-item__title' href='/events/10967'>
+Социальные сети для специалистов
+</a>
+<div class='event-list-item__info'>
+23 января 2018 - 16 марта 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Екатеринбург, Россия
 </div>
 <div class='event-list-item__info event-list-item__info_online'>
 Онлайн-трансляция
@@ -558,16 +333,247 @@ CONVERT.2018
 </div>
 </div>
 </div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10931' style='background-image: url(/system/events/logos/000/010/931/original/Instagram-%D0%9A%D0%B0%D0%BA-%D0%B2%D0%BE%D0%B8%CC%86%D1%82%D0%B8-%D0%B2-IT-%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C.jpg?1514471346)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Мастер-класс / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/10931'>
+Как начать карьеру в IT
+</a>
+<div class='event-list-item__info'>
+23 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Днепропетровск, Украина
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10977' style='background-image: url(/system/events/logos/000/010/977/original/2018-01-16_18-54-47.png?1516118454)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Лекция / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/10977'>
+Импортозамещение. Российские программные решения для  бизнеса и государства
+</a>
+<div class='event-list-item__info'>
+24 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Казань, Россия
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10976' style='background-image: url(/system/events/logos/000/010/976/original/%D1%81%D0%BA%D0%B0%D1%82_DPI_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9.png?1516102932)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Вебинар / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/10976'>
+DPI - технология двойного назначения.
+</a>
+<div class='event-list-item__info'>
+24 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_online'>
+Онлайн-трансляция
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10930' style='background-image: url(/system/events/logos/000/010/930/original/business-926221_960_720.jpg?1514470147)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Вебинар / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/10930'>
+Что нужно знать руководителю компании о CRM на примере Salesforce
+</a>
+<div class='event-list-item__info'>
+24 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_online'>
+Онлайн-трансляция
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10972' style='background-image: url(/system/events/logos/000/010/972/original/logo-web.png?1516042067)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Мастер-класс / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/10972'>
+КАК ИСКЛЮЧИТЬ «ЧЕЛОВЕЧЕСКИЙ ФАКТОР» ИЗ РАБОТЫ СОТРУДНИКОВ: CRM. Автоматизация. Искусственный интеллект.
+</a>
+<div class='event-list-item__info'>
+24 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Москва, Россия
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10789' style='background-image: url(/system/events/logos/000/010/789/original/logo.png?1512030788)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Конференция / Платное
+</div>
+<a class='event-list-item__title' href='/events/10789'>
+BIT-2018,  Краснодар
+</a>
+<div class='event-list-item__info'>
+25 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Краснодар, Россия
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/11012' style='background-image: url(/system/events/logos/000/011/012/original/55f2efcfc55e66.05149898.png?1516351619)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Вебинар / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/11012'>
+Лучшие практики в развертывании Acronis Backup 12.5. Три сценария
+</a>
+<div class='event-list-item__info'>
+25 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_online'>
+Онлайн-трансляция
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10974' style='background-image: url(/system/events/logos/000/010/974/original/2018-01-16_19-09-33.png?1516119426)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Конференция / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/10974'>
+Импортозамещение – с чего начать?
+</a>
+<div class='event-list-item__info'>
+25 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Санкт-Петербург, Россия
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10993' style='background-image: url(/system/events/logos/000/010/993/original/dtln_logo_new.jpg?1516196399)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Конференция / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/10993'>
+Экосистемы для бизнеса. Производительность приложений в облаке
+</a>
+<div class='event-list-item__info'>
+25 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_location'>
+Санкт-Петербург, Россия
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/9975' style='background-image: url(/system/events/logos/000/009/975/original/SkyDNS_Logo_180-160.jpg?1506946302)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Вебинар / Бесплатное
+</div>
+<a class='event-list-item__title' href='/events/9975'>
+Контент-фильтрация и обеспечение информационной безопасности на предприятии с системой SkyDNS
+</a>
+<div class='event-list-item__info'>
+25 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_online'>
+Онлайн-трансляция
+</div>
+</div>
+</div>
+</div>
+<div class='event-list-item'>
+<div class='row'>
+<div class='col-2'>
+<a class='event-list-item__image' href='/events/10845' style='background-image: url(/system/events/logos/000/010/845/original/%D0%BB%D0%B0%D0%BC%D0%BF%D0%B03.png?1512994946)'></a>
+</div>
+<div class='col-10'>
+<div class='event-list-item__type'>
+Конференция / Платное
+</div>
+<a class='event-list-item__title' href='/events/10845'>
+Дизайн-мышление для бизнеса. UX-Марафон
+</a>
+<div class='event-list-item__info'>
+25 января 2018
+</div>
+<div class='event-list-item__info event-list-item__info_online'>
+Онлайн-трансляция
+</div>
+</div>
+</div>
+</div>
 
 <div class='paging'>
 
-<a class="paging__item paging__item_active" href="/">1</a>
+<a class="paging__item paging__item_active" href="/events">1</a>
 
-<a class="paging__item" href="/?page=2" rel="next">2</a>
+<a class="paging__item" href="/events?page=2" rel="next">2</a>
 
-<a class="paging__item" href="/?page=3">3</a>
+<a class="paging__item" href="/events?page=3">3</a>
 
-<a class="paging__item" href="/?page=2" rel="next">Следующая</a>
+<a class="paging__item" href="/events?page=2" rel="next">Следующая</a>
 
 </div>
 
@@ -597,7 +603,7 @@ admin@it-events.com
 <div class='footer-subscribe__title'>
 Подпишитесь на новости IT-Events
 </div>
-<form accept-charset="UTF-8" action="/subscriptions/new" class="footer-subscribe__form" data-remote="true" id="new_subscription" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><input name='_usec' type='hidden' value='385078' /><div class='control-group'>
+<form accept-charset="UTF-8" action="/subscriptions/new" class="footer-subscribe__form" data-remote="true" id="new_subscription" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><input name='_usec' type='hidden' value='945858' /><div class='control-group'>
 <div class='control-group__item'>
 <input class="footer-subscribe__email" id="subscription_email" name="subscription[email]" placeholder="Введите эл. почту" required="required" type="email" />
 <span class='field-validation-error' data-valmsg-for='news' data-valmsg-replace='true'>
@@ -640,7 +646,7 @@ IT-Events в социальных сетях:
 <div class='overlay-container' id='login-box' style='display:none'>
 <div class='form_login'>
 <h2 class='login_string'>Вход в систему</h2>
-<form accept-charset="UTF-8" action="/ru/login" class="simple_form new_user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="nwlMGiAl+rxnhQr2l7glqHWYVw46otiZqtA3SlAg3iQ=" /></div><input name='_usec' type='hidden' value='387578' /><p class='errors invisible'>
+<form accept-charset="UTF-8" action="/ru/login" class="simple_form new_user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8z2d/SDw4PBfSXSdLgU6XsB1WEHXxhR1CPY48pTbjVc=" /></div><input name='_usec' type='hidden' value='948412' /><p class='errors invisible'>
 
 </p>
 <div class='form-group'>

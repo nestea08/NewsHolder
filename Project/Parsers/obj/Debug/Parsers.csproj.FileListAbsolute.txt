@@ -4,3 +4,8 @@ C:\Users\Asus\Documents\GitHub\News_holder\Project\Parsers\obj\Debug\Parsers.csp
 C:\Users\Asus\Documents\GitHub\News_holder\Project\Parsers\obj\Debug\Parsers.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Documents\GitHub\News_holder\Project\Parsers\obj\Debug\Parsers.dll
 C:\Users\Asus\Documents\GitHub\News_holder\Project\Parsers\obj\Debug\Parsers.pdb
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Parsers\bin\Debug\Project.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Parsers\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Parsers\bin\Debug\Project.pdb
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Parsers\bin\Debug\Project.dll.config
+C:\Users\Asus\Documents\GitHub\News_holder\Project\Parsers\bin\Debug\EntityFramework.xml

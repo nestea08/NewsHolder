@@ -63,14 +63,20 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
-    <Compile Include="ParsingTests.cs" />
+    <Compile Include="Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Parsers\Parsers.csproj">
+      <Project>{08946aae-50a8-4f8e-acad-4bcba422bed5}</Project>
+      <Name>Parsers</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Project\BD.csproj">
       <Project>{3EFE3677-F68B-4A5F-BF48-E9C1F5FC5A41}</Project>
       <Name>BD</Name>

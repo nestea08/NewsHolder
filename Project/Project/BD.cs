@@ -8,24 +8,60 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Data.Entity;
 
-namespace Project
+namespace BD
 {
-    public class BD
+    public class DataBase
     {
+        public List<News> News { get; private set; }
+        public DataBase() {}
+        public static DataBase GetDB()
+        {
+            return new DataBase { News = GetNews() };
+        }
         public void AddNews(News n)
         {
             using (NewsContext nc = new NewsContext())
             {
-                nc.NewsSet.Add(n);
-                nc.SaveChanges();
+                if (!nc.NewsSet.Contains(n))
+                {
+                    nc.NewsSet.Add(n);
+
+                    nc.SaveChanges();
+                }
+
             }
+            News.Add(n);
         }
-        public List<News> GetNews()
+        
+        private static List<News> GetNews()
         {
             using (NewsContext nc=new NewsContext())
             {
                 return nc.NewsSet.ToList();
             }
+        }
+        public void DeleteNews(News n)
+        {
+            using (NewsContext nc = new NewsContext())
+            {
+                nc.NewsSet.Remove(n);
+
+                nc.SaveChanges();
+            }
+            News.Remove(n);
+        }
+        public void ClearNews()
+        {
+            using (NewsContext nc = new NewsContext())
+            {
+                foreach(News n in nc.NewsSet)
+                {
+                    nc.NewsSet.Remove(n);
+                }
+
+                nc.SaveChanges();
+            }
+            News.Clear();
         }
     }
    

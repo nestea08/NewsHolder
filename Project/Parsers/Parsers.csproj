@@ -43,5 +43,11 @@
     <Compile Include="ParsingEvents.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Project\BD.csproj">
+      <Project>{3efe3677-f68b-4a5f-bf48-e9c1f5fc5a41}</Project>
+      <Name>BD</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

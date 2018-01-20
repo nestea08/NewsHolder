@@ -22,3 +22,5 @@ C:\Users\Asus\Documents\GitHub\News_holder\Project\ProjectTests\obj\Debug\Projec
 C:\Users\Asus\Documents\GitHub\News_holder\Project\ProjectTests\bin\Debug\ProjectTests.dll.config
 C:\Users\Asus\Documents\GitHub\News_holder\Project\ProjectTests\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Asus\Documents\GitHub\News_holder\Project\ProjectTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Documents\GitHub\News_holder\Project\ProjectTests\bin\Debug\Parsers.dll
+C:\Users\Asus\Documents\GitHub\News_holder\Project\ProjectTests\bin\Debug\Parsers.pdb

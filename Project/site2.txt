@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang='en' style='background: #3eb9ff;'>
+<head>
+<meta charset='UTF-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<script type='text/javascript'>
+var dominant_color='#3eb9ff'
+</script>
+<script src='/assets/html5.js' type='text/javascript'></script>
+<link href="/assets/main_2-5d2e92ba1324afdab7ebfe03141a431f5f0205235f91ae9174a70e60f940bc01.css" media="all" rel="stylesheet" />
+<link href="/assets/facebox-3fa68ac8a58e0381c960ebbb77ed418cf257aec7d82b8382ace0fc18c0b02947.css" media="all" rel="stylesheet" />
+<link href="/assets/style2-aa3aec01307adcbcfa6ac749171fc9484dd769546e7f49987ad5677963d6d08e.css" media="all" rel="stylesheet" />
+<link href='https://microformats.org/profile/hcalendar' rel='profile'>
+<link href='https://microformats.org/profile/hcard' rel='profile'>
+<link href='/favicon.ico' rel='shortcut icon'>
+<link href='/favicon.ico' rel='icon'>
+<script src="/assets/application-0d53042e3b090fc73e0777990a7331548a0e0d576857f684df5682bb6b2c4e4b.js"></script>
+<script src="https://vkontakte.ru/js/api/openapi.js"></script>
+
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="WBcnLR6DmwVGekIl1Of9sPu6u3FcTe6uKu279QZ5Nw0=" name="csrf-token" />
+<meta content='Айти-Событие.рф Конференция &amp;quot;Дизайн-мышление для бизнеса. UX-Марафон&amp;quot; - организатор &amp;quot;&amp;quot;' name='description'>
+<meta content='Айти-Событие.рф Конференция &amp;quot;Дизайн-мышление для бизнеса. UX-Марафон&amp;quot; &amp;quot;&amp;quot;' name='keywords'>
+<meta content='' http-equiv='Refresh'>
+<meta content='ru' http-equiv='Content-Language'>
+<meta content='article' name='og:type'>
+<meta content='&amp;#x410;&amp;#x439;&amp;#x422;&amp;#x438;-&amp;#x421;&amp;#x43e;&amp;#x431;&amp;#x44b;&amp;#x442;&amp;#x438;&amp;#x435;.&amp;#x420;&amp;#x424;' name='og:site_name'>
+<meta content='100004779883759' name='fb:admins'>
+
+<title>Дизайн-мышление для бизнеса. UX-Марафон / Конференция / Онлайн трансляция / 25 января 2018
+</title>
+</head>
+<body class='body body_event'>
+<header class='header header_event js-header'>
+<div class='container'>
+<div class='row'>
+<div class='col-8 col-lg-7'>
+<a class='header__logo' href='http://it-events.com'></a>
+</div>
+<script>
+  var i18n = {}
+  i18n.login_string = "";
+  i18n.authorized_event = false;
+</script>
+<script src="/assets/loginform-31681f7fe563f947b13fe3fbd49b0fab6168c7f3c4e0f48251cc2d1328fddac2.js"></script>
+<div class='col-4 col-lg-5'>
+<div class='header__menu hidden-md-down' id='profileControls'>
+<a class="header__item" href="/en/events/10845">EN</a>
+<div class='header__item' id='edit-profile-button' style='display:none'>
+<a class='button button_text_pink' href='/users/edit'>
+<i class='button__icon'></i>
+<span id='logged-in-string'>
+Мой профиль
+</span>
+</a>
+</div>
+<div id='logout-button' style='display:none'>
+<a class="header__item" data-remote="true" href="/logout" title="Выйти из системы">Выход</a>
+</div>
+<div class='header__item' id='login-button' style='display:none'>
+<a class='button button_text_pink' href='#' rel='facebox' title='Войти в систему'>
+<i class='button__icon'></i>
+Войти
+</a>
+</div>
+<div id='register-button' style='display:none'>
+<a class="header__item" href="/users/sign_up" title="Зарегистрироваться в системе">Регистрация</a>
+</div>
+</div>
+<div class='header__menu hidden-lg-up'>
+<div class='header__burger' onclick="var t = document.querySelector('.js-header'); t.classList.contains('header_menu') ? t.classList.remove('header_menu') : t.classList.add('header_menu')"></div>
+<div class='header__big'>
+<a class="header__item" href="/en/events/10845">EN</a>
+<div class='header__item' style='display:none'>
+<a class='button button_text_pink' href='/users/edit'>
+<i class='button__icon'></i>
+<span id='logged-in-string'>
+Мой профиль
+</span>
+</a>
+</div>
+<div class='header__item' style='display:none'>
+<a class="header__item" data-remote="true" href="/logout" title="Выйти из системы">Выход</a>
+</div>
+<div class='header__item' style='display:none'>
+<a class='button button_text_pink' href='#' rel='facebox' title='Войти в систему'>
+<i class='button__icon'></i>
+Войти
+</a>
+</div>
+<div class='header__item' style='display:none'>
+<a class="header__item" href="/users/sign_up" title="Зарегистрироваться в системе">Регистрация</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<div class='event-header'>
+<div class='container'>
+<div class='row'>
+<div class='col-md-2'>
+<a href='/events/10845'>
+<div class='event-header__logo' style='background-image:url(/system/events/logos/000/010/845/original/%D0%BB%D0%B0%D0%BC%D0%BF%D0%B03.png?1512994946)'></div>
+</a>
+</div>
+<div class='col-md-10'>
+<h1 class='event-header__title'>
+Дизайн-мышление для бизнеса. UX-Марафон
+</h1>
+<div class='event-header__line event-header__line_bold event-header__line_icon'>
+25 января 2018 (чт), 11:00
+-
+18:00
+</div>
+
+
+<hr class='event-header__divider'>
+<div class='row'>
+<div class='col-md-4 col-sm-12'>
+<div class='event-header__line event-header__line_icon event-header__line_icon_online'>
+Онлайн-трансляция
+</div>
+</div>
+</div>
+
+<div class='event-header__line event-header__line_icon event-header__line_icon_price'>
+<a class="event-header__line event-header__line_price" href="/events/10845/price">Стоимость участия: 1 200 - 2 500 руб.</a>
+</div>
+
+<hr class='event-header__divider'>
+<div class='event-header__actions'>
+<div class='control-group'>
+<div class='control-group__item'>
+<a class="button button_pink" href="https://goo.gl/ziJTJu" target="new">Зарегистрироваться</a>
+</div>
+
+
+<div class='control-group__item'>
+<button class='button' onclick="window.location.href ='https://it-events.com/events/10845/message#form'">
+Написать организатору
+</button>
+</div>
+</div>
+</div>
+</hr>
+</div>
+</div>
+</div>
+</div>
+
+<div class='content'>
+<div class='container'>
+<div class='row'>
+<div class='col-md-12'>
+<ul class='nav-tabs'>
+<li class='nav-tabs-item nav-tabs-item_active'>
+Конференция
+</li>
+<li class='nav-tabs-item'>
+<a class="nav-tabs-item__link" href="/events/10845/price">Стоимость</a>
+</li>
+</ul>
+
+</div>
+</div>
+
+<div class='nav-tabs__bodies'>
+<div class='nav-tabs__tab nav-tabs__tab__active'>
+<div class='container'>
+<div class='row'>
+<div class='col-md-8 user-generated'>
+<h3 style="text-align:center">Десятый UX-Марафон будет посвящен модной теме &quot;Дизайн-мышление&quot;.</h3>
+
+<p style="text-align:center">Пригласим экспертов и практиков: тех, кто обучает дизайн-мышлению и тех, кто применяет дизайн-мышление в бизнесе. Узнаем методологию, кейсы, возможности и попробуем в деятельности!</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<table border="0" cellpadding="1" cellspacing="1" style="width:715px">
+	<tbody>
+		<tr>
+			<td style="text-align:center"><img alt="" src="/system/ckeditor/pictures/16512/content_content_banner_851x315.png" style="height:259px; width:700px" /></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="text-align:justify">С нами в этот день будут практики, применяющие дизайн-мышление в своей работе в компаниях: Сбербанк, Альфа-банк, SAP, Wonderfull и др.компаний.&nbsp;</p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><strong>Что такое &quot;Дизайн-мышление&quot;?&nbsp;</strong></p>
+
+<p style="text-align:justify">Это методология, основанная на наблюдениях, экспериментах, быстрых изменениях&nbsp;и проверки гипотез.</p>
+
+<p style="text-align:justify">Это способ решения задач, ориентированный&nbsp;на интересы клиентов с учетом задач бизнеса.</p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><strong>Зачем нужно дизайн-мышление?&nbsp;</strong></p>
+
+<p style="text-align:justify">Это способ&nbsp;понять потребности и проблемы клиентов, увидеть их боль и найти решение, которое устроило клиентов и было выгодно бизнесу.&nbsp;</p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><strong>Кто применяет Дизайн-мышление на практике?&nbsp;</strong></p>
+
+<p style="text-align:justify">IT-компании (IBM, SAP), Банковский сектор (Сбербанк, Альфа-банк), Телеком (Теле2), образовательные проекты,&nbsp;малый и средний бизнес. Ограничений нет!&nbsp;</p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><strong>Кому будет полезно мероприятие:&nbsp;</strong></p>
+
+<p style="text-align:justify">Командам, которые занимаются развитием продукта/бизнеса.</p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<table border="0" cellpadding="1" cellspacing="1" style="width:715px">
+	<tbody>
+		<tr>
+			<td style="text-align:center"><img alt="" src="/system/ckeditor/pictures/16513/content_zagruzhennoe_4.jpg" style="height:158px; width:700px" /></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="text-align:justify">Всем, кто хочет узнать про &quot;Дизайн-мышление&quot; больше&nbsp;и попробовать самим.</p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><strong>Программа мероприятия:&nbsp;</strong></p>
+
+<p style="text-align:justify">Впервые на UX-Марафоне будет&nbsp;<strong>практическая часть</strong>&nbsp;для зрителей прямо во время эфира!</p>
+
+<p style="text-align:justify">Дизайн-мыслители&nbsp;из&nbsp;<strong>Сбербанка&nbsp;</strong>помогут нам в этом.&nbsp;</p>
+
+<p style="text-align:justify"><strong>Теоретическая часть&nbsp;</strong>по основам дизайн-мышления (2 доклада).&nbsp;</p>
+
+<p style="text-align:justify">Wonderfull</p>
+
+<ul>
+	<li style="text-align:justify">Что такое дизайн-мышление,</li>
+	<li style="text-align:justify">Этапы и принципы.</li>
+	<li style="text-align:justify">Обзор решений.&nbsp;</li>
+</ul>
+
+<p style="text-align:justify"><strong>Кейсы от представителей</strong>&nbsp;компаний (4-6&nbsp;докладов).</p>
+
+<p style="text-align:justify">Сбербанк, Альфа-банк, SUP</p>
+
+<ul>
+	<li style="text-align:justify">&nbsp;Примеры применения дизайн-мышления.&nbsp;</li>
+	<li style="text-align:justify">&nbsp;Результаты изменений.</li>
+	<li style="text-align:justify">&nbsp;Как встроить процессы дизайн-мышления&nbsp;в компанию.</li>
+</ul>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><strong>Как проходит UX-Марафон</strong></p>
+
+<p style="text-align:justify">В четверг, 25 января 2018 г. с 11:00 до 18:00 (МСК) докладчики выступают из студии, зрители будут смотреть с любых устройств (телефон, планшет, телевизор, ПК)&nbsp;из любой локации, где есть Интернет и задают вопросы.</p>
+
+<p style="text-align:justify">&nbsp;Некоторые компании&nbsp;смотрят&nbsp;UX-Марафон целыми отделами на работе -&nbsp;это удобный способ повышения квалификации сотрудников.</p>
+
+<p style="text-align:justify">Так прошло уже 9 UX-Марафонов и более 2500 специалистов остались очень довольны качеством докладов и форматом конференции.</p>
+
+</div>
+<div class='col-md-4'>
+<div class='right-menu'>
+<div class='right-menu__title'>
+Расскажите друзьям
+</div>
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?58"></script><script type="text/javascript">VK.init({apiId: 3179925, onlyWidgets: true});</script>
+<div id="fb-root"></div><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); window.fbAsyncInit = function() {FB.init({appId: "100004779883759", channelUrl: "//WWW.IT-SOBYTIE.RU/channel.html", status: true, cookie: true, xfbml:true})}; (function(d, debug){var js, id = "facebook-jssdk", ref = d.getElementsByTagName('script')[0]; if (d.getElementById(id)) {return;} js = d.createElement("script"); js.id = id; js.async = true; js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js"; ref.parentNode.insertBefore(js, ref);}(document, /*debug*/ false));</script>
+<span class='social-icon-wrapper' style='background: #3eb9ff;'>
+<a class='social-icon social-icon_twitter' href='#'>
+<iframe allowtransparency='true' data-twttr-rendered='true' frameborder='0' scrolling='no' src='//platform.twitter.com/widgets/tweet_button.1355514129.html#_=1355729593552&amp;count=horizontal&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http://it-events.com/events/10845&amp;size=l&amp;text=Дизайн-мышление для бизнеса. UX-Марафон \ 25.01.18&amp;url=http://it-events.com/events/10845' style='width: 107px; height: 40px; ' target='new'></iframe>
+</a>
+</span>
+<span class='social-icon-wrapper' style='background: #3eb9ff;'>
+<a class='social-icon social-icon_vk' href='http://vkontakte.ru/share.php?url=http://it-events.com/events/10845' onclick="window.open(this.href, 'Опубликовать ссылку в Вконтакте', 'width=800,height=300'); return false" rel='nofollow' target='new' title='Опубликовать ссылку в Вконтакте'></a>
+</span>
+<span class='social-icon-wrapper' style='background: #3eb9ff;'>
+<a class='social-icon social-icon_fb' href='http://www.facebook.com/sharer.php?s=100&amp;p[url]=http%3A%2F%2Fit-events.com%2Fevents%2F10845&amp;p[images][0]=' onclick="window.open(this.href, 'Опубликовать ссылку в Facebook', 'width=640,height=436,toolbar=0,status=0'); return false" rel='nofollow' target='new' title='Опубликовать ссылку в Facebook'></a>
+</span>
+<span class='social-icon-wrapper' style='background: #3eb9ff;'>
+<a class='social-icon social-icon_linkedin' href='#' target='new' title='Опубликовать ссылку в LinkedIn'>
+<script src='//platform.linkedin.com/in.js' type='text/javascript'></script>
+<script type='IN/Share'>%span.social-icon-wrapper{:style => "background: #3eb9ff;"}</script>
+</a>
+</span>
+</div>
+<div class='right-menu'>
+<div class='right-menu__title'>
+Добавьте в свой календарь
+</div>
+<div class='control-group'>
+<div class='control-group__item'>
+<a class='calendar-button calendar-button_google' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B4%D0%BB%D1%8F+%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0.+UX-%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD&amp;dates=20180125T110000/20180125T180000&amp;details=%D0%9A%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F%3A+%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B4%D0%BB%D1%8F+%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0.+UX-%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%0D%0A%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%3A+http%3A%2F%2Fit-events.com%2Fevents%2F10845%0A&amp;location=&amp;trp=false' target='new' title='Google Calendar'></a>
+</div>
+<div class='control-group__item'>
+<a class='calendar-button calendar-button_outlook' href='/events/10845/calendar?type=ics&amp;tz=Moscow' title='MS Outlook / iCalendar'></a>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class='event-common'>
+<div class='container'>
+<div class='event-common__row'>
+<div class='row'>
+<div class='col-sm-4'>
+<div class='event-common-item'>
+<div class='event-common-item__title'>
+Официальный сайт события
+</div>
+<a class='event-common-item__link event-common-item__link_ellipsis' href='https://goo.gl/ziJTJu' target='new'>
+https://goo.gl/ziJTJu
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+
+</div>
+<footer class='footer footer_event'>
+<div class='container'>
+<div class='row'>
+<div class='col-md-3'>
+<div>
+© 2018, IT-Events, LTD
+</div>
+<div class='footer__contact'>
+<a class='footer__link' href='mailto:admin@it-events.com'>
+admin@it-events.com
+</a>
+</div>
+</div>
+<div class='col-md-offset-1 col-md-8'>
+<div class='footer-subscribe subscription'>
+<div class='footer-subscribe__title'>
+Подпишитесь на новости IT-Events
+</div>
+<form accept-charset="UTF-8" action="/subscriptions/new" class="footer-subscribe__form" data-remote="true" id="new_subscription" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><input name='_usec' type='hidden' value='636692' /><div class='control-group'>
+<div class='control-group__item'>
+<input class="footer-subscribe__email" id="subscription_email" name="subscription[email]" placeholder="Введите эл. почту" required="required" type="email" />
+<span class='field-validation-error' data-valmsg-for='news' data-valmsg-replace='true'>
+<span for='restore_pass' generated='true'></span>
+</span>
+</div>
+<div class='control-group__item'>
+<input class="button" name="commit" type="submit" value="Подписаться" />
+</div>
+</div>
+</form>
+
+</div>
+<div class='footer-social'>
+<div class='footer-social__title'>
+IT-Events в социальных сетях:
+</div>
+<a class='social-icon social-icon_footer' href='https://twitter.com/iteventscom' target='new' title='twitter'></a>
+<a class='social-icon social-icon_footer social-icon_vk' href='https://vk.com/iteventscom' target='new' title='vk'></a>
+<a class='social-icon social-icon_footer social-icon_fb' href='https://www.facebook.com/iteventscom' target='new' title='facebook'></a>
+<a class='social-icon social-icon_footer social-icon_youtube' href='https://www.youtube.com/itsobytie' target='new' title='youtube'></a>
+<a class='social-icon social-icon_footer social-icon_linkedin' href='https://www.linkedin.com/company/it-sobytie' target='new' title='linkedin'></a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class='g-hidden alert-message'>
+<div class='success'>
+<p>
+<strong>Поздравляем!</strong>
+</p>
+Вы успешно подписались на нашу рассылку.
+</div>
+</div>
+<div style='visibility:hidden;height:0'>
+<script src="/assets/liveinternet-b2f4114f80341ebc350583a674983bcaa89c10f08704c5fdb07dcf6d977eb02a.js"></script>
+</div>
+
+<div class='overlay-container' id='login-box' style='display:none'>
+<div class='form_login'>
+<h2 class='login_string'>Вход в систему</h2>
+<form accept-charset="UTF-8" action="/ru/login" class="simple_form new_user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="WBcnLR6DmwVGekIl1Of9sPu6u3FcTe6uKu279QZ5Nw0=" /></div><input name='_usec' type='hidden' value='639693' /><p class='errors invisible'>
+
+</p>
+<div class='form-group'>
+<div class="input string required user_email"><label class="string required control-label form-group__label" for="user_email">e-mail <abbr title="required">*</abbr></label><input class="string required form-control form-control_size_full" id="user_email" name="user[email]" placeholder="user@domain.ru" type="text" value="" /></div>
+</div>
+<div class='form-group'>
+<div class="input password required user_password"><label class="password required control-label form-group__label" for="user_password">Пароль <abbr title="required">*</abbr></label><input class="password required form-control form-control_size_full" id="user_password" name="user[password]" type="password" /></div>
+</div>
+<div class='form-group'>
+<label class='form-group__label'>
+<input name="user[remember_me]" type="hidden" value="0" /><label class="checkbox"><input class="boolean optional" id="user_remember_me" name="user[remember_me]" type="checkbox" value="1" /></label>
+ Запомнить меня?
+</label>
+</div>
+<input class="button_blue button button_bold button_pink" name="commit" type="submit" value="Войти" />
+<button class='button button_ghost' onclick='$.facebox.close()'>
+Отмена
+</button>
+<p>
+<a class="recover_link" href="/profile/recover">Забыли пароль?</a>
+<a class="recover_link" href="/users/sign_up" title="Зарегистрироваться в системе">Регистрация</a>
+</p>
+<br>
+<br>
+</form>
+
+</div>
+
+</div>
+</body>
+</html>
+
